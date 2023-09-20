@@ -1,0 +1,32 @@
+﻿  Map.cpp
+C:\Study\Study\c+\study\Snake\Snake\Snake\Map.cpp(92,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Study\Study\c+\study\Snake\Snake\Snake\Map.cpp(92,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Study\Study\c+\study\Snake\Snake\Snake\Map.cpp(100,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Study\Study\c+\study\Snake\Snake\Snake\Map.cpp(100,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Study\Study\c+\study\Snake\Snake\Snake\Map.cpp(107,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Study\Study\c+\study\Snake\Snake\Snake\Map.cpp(107,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Snake.vcxproj -> C:\Study\Study\c+\study\Snake\Snake\x64\Debug\Snake.exe
