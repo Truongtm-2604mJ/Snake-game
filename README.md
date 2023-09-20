@@ -2,6 +2,7 @@
 A simple game snake in C++. Using 
 
 How it look
+
 Game Menu
 
 ![image](https://github.com/Truongtm-2604mJ/Snake-game/assets/139785662/5c963700-0036-42fc-851a-382af707f489)
