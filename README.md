@@ -1,7 +1,7 @@
 # Snake-game
 A simple game snake in C++. Using 
 
-How it look
+How it look:
 
 Game Menu
 
@@ -16,8 +16,12 @@ Game Manual
 ![image](https://github.com/Truongtm-2604mJ/Snake-game/assets/139785662/ca740d69-3d03-4145-8ff9-527055e73227)
 
 
+
 👋 Hi, I’m @Truongtm-2604mJ
+
 👀 I’m interested in Reading book, playing chinese chess,...
+
 🌱 I’m currently learning CONTROL ENGINEERING AND AUTOMATION.
+
 📫 How to reach me: tmtruong.mc2604@gmail.com
 
