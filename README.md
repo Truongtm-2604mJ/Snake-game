@@ -1,5 +1,5 @@
 # Snake-game
-A simple game snake in C++. Using 
+A simple game snake in C++. Using Sfml, OOP.
 
 How it look:
 
